@@ -1,0 +1,53 @@
+/***** zenburn ish *****/
+/**
+    --zenburn-fg: #dcdccc;
+    --zenburn-bg: #3f3f3f;
+    --zenburn-bg-1: #2b2b2b;
+    --zenburn-bg-05: #383838;
+    --zenburn-red: #cc9393;
+    --zenburn-red2: #ac7373;
+    --zenburn-orange: #dfaf8f;
+    --zenburn-yellow: #f0dfaf;
+    --zenburn-green: #7f9f7f;
+    --zenburn-cyan: #93e0e3;
+    --zenburn-blue: #94bff3;
+**/
+
+html, body{
+    height: 100%;
+}
+
+body{
+    background-color: #3f3f3f;
+}
+
+div{
+    margin: 0;
+    padding: 0;
+}
+
+#mainBody{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+h2, h3, h4{
+    font-family: 'Raleway', sans-serif;
+}
+
+h2{
+    color: #cc9393;
+}
+
+h3{
+    color: #7f9f7f;
+}
+
+h4{
+    color: #f0dfaf;
+}
+
+span{
+    color: #93e0e3;
+}
